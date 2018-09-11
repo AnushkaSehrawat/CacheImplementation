@@ -1,0 +1,7 @@
+c:\users\asehrawat\source\repos\solidapproach\solidapproach\bin\Debug\solidapproach.exe.config
+c:\users\asehrawat\source\repos\solidapproach\solidapproach\bin\Debug\solidapproach.exe
+c:\users\asehrawat\source\repos\solidapproach\solidapproach\bin\Debug\solidapproach.pdb
+c:\users\asehrawat\source\repos\solidapproach\solidapproach\obj\Debug\solidapproach.csprojResolveAssemblyReference.cache
+c:\users\asehrawat\source\repos\solidapproach\solidapproach\obj\Debug\solidapproach.csproj.CoreCompileInputs.cache
+c:\users\asehrawat\source\repos\solidapproach\solidapproach\obj\Debug\solidapproach.exe
+c:\users\asehrawat\source\repos\solidapproach\solidapproach\obj\Debug\solidapproach.pdb
